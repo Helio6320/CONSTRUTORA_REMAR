@@ -1,0 +1,17 @@
+@model Funcionario
+
+<h1>Registre um funcionário</h1>
+
+<form asp-action="RegistrarFuncionarios" method="post">
+    <input type="text" asp-for="Nome" id="userNome" placeholder="Nome">
+    <input type="text" asp-for="Login" id="userLogin" placeholder="Login">
+    <input type="text" asp-for="Senha" id="userSenha" placeholder="Senha">
+
+    <select asp-for="Tipo" id="userTipo">
+        <option value="@Funcionario.ADMIN">Administrator</option>
+        <option value="@Funcionario.PADRAO">Padrão</option>
+    </select>
+
+    <input type="submit" value="REGISTRAR">
+
+</form>

@@ -1,0 +1,37 @@
+@model List<Funcionario>
+<h1>Funcionários cadastrados no sistema</h1>
+
+<p class="text-danger">@ViewData["Mensagem"]</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="row">Nome</th>
+            <th scope="row">Login</th>
+            <th scope="row">Tipo</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (Funcionario f in Model)
+        {
+        <tr>
+            <td>@f.Nome</td>
+            <td>@f.Login</td>
+            @if(f.Tipo==Funcionario.ADMIN)
+            {
+                <td>Administrator</td>
+            }
+            else
+            {
+                <td>Padrão<object data="" type=""></object></td>
+            }
+
+            <td><a href="editarFuncionario?id=@f.Id">editar</a></td>
+            <td><a href="ExcluirFuncionario?id=@f.Id">excluir</a></td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+<a href="RegistrarFuncionarios">Registrar novo funcionário</a>

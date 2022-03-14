@@ -1,0 +1,96 @@
+C:\Users\user\Desktop\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.exe
+C:\Users\user\Desktop\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.deps.json
+C:\Users\user\Desktop\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.runtimeconfig.json
+C:\Users\user\Desktop\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.runtimeconfig.dev.json
+C:\Users\user\Desktop\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.dll
+C:\Users\user\Desktop\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.pdb
+C:\Users\user\Desktop\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.Views.dll
+C:\Users\user\Desktop\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.Views.pdb
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.csprojAssemblyReference.cache
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.AssemblyInfo.cs
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.TagHelpers.input.cache
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.TagHelpers.output.cache
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.RazorCoreGenerate.cache
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.Views.pdb
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\staticwebassets\UC_08_PI_ATV_06.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\staticwebassets\UC_08_PI_ATV_06.StaticWebAssets.xml
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.dll
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.pdb
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.genruntimeconfig.cache
+C:\Users\user\Desktop\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.csproj.CopyComplete
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.exe
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.deps.json
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.runtimeconfig.json
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.runtimeconfig.dev.json
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.dll
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.pdb
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.Views.dll
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\UC_08_PI_ATV_06.Views.pdb
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.csprojAssemblyReference.cache
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.AssemblyInfo.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.TagHelpers.input.cache
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.TagHelpers.output.cache
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.RazorCoreGenerate.cache
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.RazorTargetAssemblyInfo.cache
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.RazorTargetAssemblyInfo.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.Views.pdb
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\staticwebassets\UC_08_PI_ATV_06.StaticWebAssets.Manifest.cache
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\staticwebassets\UC_08_PI_ATV_06.StaticWebAssets.xml
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.dll
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.pdb
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.genruntimeconfig.cache
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\UC_08_PI_ATV_06.csproj.CopyComplete
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Home\Atendimento.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cadastro.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Home\FaleConosco.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Home\Investimentos.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Home\Sugestao.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\editarCliente.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\ListaDeCliente.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\NeedAdmin.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Cliente\RegistrarCliente.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\editarFuncionario.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\ListaDeFuncionarios.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\NeedAdmin.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Funcionario\RegistrarFuncionario.cshtml.g.cs
+C:\Users\user\Desktop\PI UC 08 ATVS\UC_08_PI_ATV_06\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs

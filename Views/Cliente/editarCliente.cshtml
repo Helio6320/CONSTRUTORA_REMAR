@@ -1,0 +1,18 @@
+@model Cliente
+
+<h1>Editar Cliente</h1>
+
+<form asp-action="editarCliente" method="post">
+    <input type="text" asp-for="Nome" id="userNome" placeholder="Nome">
+    <input type="text" asp-for="Login" id="userLogin" placeholder="Login">
+    <input type="text" asp-for="Senha" id="userSenha" placeholder="Senha">
+
+    <select asp-for="Tipo" id="userTipo">
+        <option value="@Cliente.ADMIN">Administrator</option>
+        <option value="@Cliente.PADRAO">Padrão</option>
+    </select>
+
+    <input type="hidden" asp-for="Id">
+    <input type="submit" value="EDITAR">
+
+</form>
